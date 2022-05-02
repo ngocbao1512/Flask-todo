@@ -1,2 +1,0 @@
-# Flask-todo
-Flask python 
